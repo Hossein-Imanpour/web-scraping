@@ -69,8 +69,8 @@ async function getData () {
         })
         
 
-            console.log(articles);
-    } 
+            console.log(articles); 
+    }  
     catch (error) {
         console.error(error)
     }
